@@ -4,6 +4,18 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [2.2.6](https://github.com/porscheofficial/porschedigital-technology-radar/compare/porschedigital-technology-radar-v2.2.5...porschedigital-technology-radar-v2.2.6) (2026-07-14)
+
+
+### Bug Fixes
+
+* **techradar:** type external-link rel as string array ([bd1d127](https://github.com/porscheofficial/porschedigital-technology-radar/commit/bd1d127ded7b7534f237d1bac428a07b7cb5e8ac))
+
+
+### Build System
+
+* **deps-dev:** bump jscpd from 5.0.7 to 5.0.12 ([e6386ed](https://github.com/porscheofficial/porschedigital-technology-radar/commit/e6386ed21b7e8a3f7f135398fa20ee32a1372c68))
+
 ## [2.2.5](https://github.com/porscheofficial/porschedigital-technology-radar/compare/porschedigital-technology-radar-v2.2.4...porschedigital-technology-radar-v2.2.5) (2026-07-08)
 
 
